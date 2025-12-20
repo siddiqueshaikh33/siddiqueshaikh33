@@ -1,17 +1,4 @@
 # Hi 👋, I'm Siddique Shaikh
-
-🚀 Aspiring **Java Backend Developer & Full-Stack Engineer**  
-💻 Passionate about building scalable web applications  
-📍 India
-
----
-
-## 👨‍💻 About Me
-
-- 🎓 BE/B.Tech (Computer Science / IT)
-- 💡 Strong in **Java, JavaScript, SQL, DSA**
-- 🧠 Interested in **Backend Development, System Design & Problem Solving**
-
 ---
 ## 🛠️ Tech Stack
 
@@ -43,8 +30,6 @@
 
 ## 📫 Connect With Me
 
-- 💼 LinkedIn: https://www.linkedin.com/siddique-shaikh-b0a819280/
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/siddique-shaikh-b0a819280/)
 
----
 
-⭐ *Feel free to check out my repositories and give a star if you like them!*
